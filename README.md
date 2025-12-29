@@ -22,6 +22,7 @@ This project predicts whether a student will PASS or FAIL based on study hours, 
 - Nihal Dhamoniya  / 23CA2611029
 - Rohit Sharma     / 23CA2611045
 
+## Group Code - SPNR
 
 ## Deployment Link
 Not deployed (console-based project)
